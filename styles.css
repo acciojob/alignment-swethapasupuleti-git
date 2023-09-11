@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.middle{
+	border: 1px solid black;
+	spacing: 1px;
+	padding: 1px;
+}
+#table-1{
+	width:100%;
+}
+#t12>td{
+	text-align: center;
+}
+#table-1>#t13{
+	text-align: right;
+}
