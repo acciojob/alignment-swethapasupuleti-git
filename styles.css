@@ -4,12 +4,25 @@
 	spacing: 1px;
 	padding: 1px;
 }
-#table-1{
-	width:100%;
+#t11{
+	text-align: left;
 }
-#t12>td{
+#t12{
 	text-align: center;
 }
-#table-1>#t13{
+#t13{
 	text-align: right;
+}
+#table-1,#table-2, #table-3{
+	width:100%;
+}
+
+.green{
+	background-color: green;
+}
+#t-image{
+	text-align: center;
+}
+.blue{
+	background-color: blue;
 }
